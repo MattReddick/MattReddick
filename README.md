@@ -1,8 +1,8 @@
 <div align="center">
-<h2> Hello there! I'm Matt Reddick</h2>
+<h3> Hello there! I'm Matt Reddick</h3>
 </div>
 
-
+---
 
 <div align="left">
 <h3> About Me</h3>
