@@ -7,7 +7,7 @@
 <div align="left">
 <h3> About Me</h3>
 
-💡 &nbsp;I love to learn about new technologies and solve complex puzzles involving logic.\
+💡 &nbsp;I like to learn about new technologies and solve complex puzzles involving logic.\
 🎓 &nbsp;I'm currently studying Computer Science at the University of California, Santa Barbara.\
 🌱 &nbsp;I'm currently learning about operating systems and human-computer interaction.\
 ✨ &nbsp;Things I'm passionate about: snowboarding, surfing, fishing, and listening to music!\
