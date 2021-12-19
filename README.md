@@ -1,5 +1,5 @@
 <div align="center">
- <h3> Hello there! I'm <strong<Matt Reddick</strong></h3>
+ <h3> Hello there! I'm <strong><Matt Reddick</strong></h3>
 </div>
 
 ---
