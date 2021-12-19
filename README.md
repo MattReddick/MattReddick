@@ -1,14 +1,18 @@
 <div align="center">
-<h2> Hello there, I'm Matt Reddick</h2>
+<h2> Hello there! I'm Matt Reddick</h2>
 </div>
+
+---
 
 <div align="left">
 <h3> About Me</h3>
 
-💡 &nbsp;I love to learn about all new technologies and solve complex puzzles involving logic.\
+💡 &nbsp;I love to learn about new technologies and solve complex puzzles involving logic.\
 🎓 &nbsp;I'm currently studying Computer Science at the University of California, Santa Barbara.\
-✉️ &nbsp;You can shoot me an email at matthewreddick@ucsb.edu! I'll try to respond as soon as I can.
+✉️ &nbsp;You can shoot me an email at matthewreddick@ucsb.edu! I'll respond as soon as I can.
 </div>
+
+---
 
 <div align="left">
 <h3> Tech Stack</h3>
@@ -38,7 +42,7 @@
 
 ### Spotify Playing 
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/mreddick13-us?si=c4b4b9e3aec145d8)
+[![Spotify](https://novatorem-7xtot5szn-mattreddick.vercel.app/api/spotify)](https://open.spotify.com/user/mreddick13-us?si=6d9dfa34c46a4518)
 
 ---
 
@@ -51,3 +55,5 @@
 <a href="https://instagram.com/matthewreddick"><img src="https://img.shields.io/badge/-@matthewreddick-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 </div>
+
+
