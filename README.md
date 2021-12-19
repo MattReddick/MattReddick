@@ -33,7 +33,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/matthew-reddick-870668201/"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/matthew-reddick-870668201/"><img src="https://img.shields.io/badge/-Matthew%20Reddick%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:matthewreddick@ucsb.edu"><img src="https://img.shields.io/badge/-matthewreddick@ucsb.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/matthewreddick"><img src="https://img.shields.io/badge/-@matthewreddick__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://instagram.com/matthewreddick"><img src="https://img.shields.io/badge/-@matthewreddick-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
