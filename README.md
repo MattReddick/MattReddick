@@ -42,7 +42,10 @@
 
 ### Spotify Playing 
 
-[![Spotify](https://novatorem-git-master-mattreddick.vercel.app/api/spotify)](https://open.spotify.com/user/mreddick13-us?si=6d9dfa34c46a4518)
+
+[![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=mreddick13-us)](https://open.spotify.com/user/mreddick13-us?si=6d9dfa34c46a4518)
+
+
 
 ---
 
