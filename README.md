@@ -9,7 +9,7 @@
 
 💡 &nbsp;I like to learn about new technologies and solve complex puzzles involving logic.\
 🎓 &nbsp;I'm currently studying Computer Science at the University of California, Santa Barbara.\
-🌱 &nbsp;I'm currently learning about operating systems and human-computer interaction.\
+🌱 &nbsp;I'm currently learning about compilers and mobile app development.\
 📖 &nbsp;I want to learn more about computer vision, artificial intelligence, and musical metacreation.\
 ✨ &nbsp;Things I'm passionate about: snowboarding, surfing, fishing, and listening to music!\
  ✉️ &nbsp;You can shoot me an email at matthewreddick@ucsb.edu! I'll respond as soon as I can.
